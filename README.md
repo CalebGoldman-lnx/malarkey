@@ -4,6 +4,12 @@ ma·​lar·​key
 
 A paraody of Omarachy by DHH
 
+Do you like the concept of Omarchy, but you hate everything it stands for? 
+Then malarkey has got you covered! So far, it replaces everything ruby related 
+with its lua counterparts. Along with removing neovim and replacing it with the 
+extremely popular emacs! More features are on the way!
+
+
 install command (untested):
 
 eval "$(curl -fsSL https://raw.githubusercontent.com/CalebGoldman-lnx/malarkey/refs/heads/master/boot.sh)" | bash
