@@ -10,9 +10,6 @@ with its lua counterparts. Along with removing neovim and replacing it with the
 extremely popular emacs! More features are on the way!
 
 
-install command (untested):
-
-eval "$(curl -fsSL https://raw.githubusercontent.com/CalebGoldman-lnx/malarkey/refs/heads/master/boot.sh)" | bash
 
 Read more at [omarchy.org](https://omarchy.org).
 
@@ -20,6 +17,15 @@ Read more at [omarchy.org](https://omarchy.org).
 * an ISO image for installation
 * Replacing hyprland with a different (better) window manager.
 * A preinstalled list of every race DHH has lost.
+
+## Installation
+So far, you can only use an install script to install malarkey.
+to run the install script, create a fresh installation of Arch Linux with full
+disk encryption, then run the command after you reboot. 
+
+install command (untested):
+
+eval "$(curl -fsSL https://raw.githubusercontent.com/CalebGoldman-lnx/malarkey/refs/heads/master/boot.sh)" | bash
 
 
 ## License
