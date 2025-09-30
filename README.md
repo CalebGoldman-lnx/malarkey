@@ -25,7 +25,7 @@ disk encryption, then run the command after you reboot.
 
 install command (untested):
 
-curl -fsSL https://raw.githubusercontent.com/CalebGoldman-lnx/malarkey/refs/heads/master/boot.sh)" | bash
+curl -fsSL https://raw.githubusercontent.com/CalebGoldman-lnx/malarkey/refs/heads/master/boot.sh | bash
 
 
 ## License
