@@ -23,7 +23,7 @@ So far, you can only use an install script to install malarkey.
 to run the install script, create a fresh installation of Arch Linux with full
 disk encryption, then run the command after you reboot. 
 
-install command (untested):
+install command (works partially. manual debugging may be required):
 
 curl -fsSL https://raw.githubusercontent.com/CalebGoldman-lnx/malarkey/refs/heads/master/boot.sh | bash
 
